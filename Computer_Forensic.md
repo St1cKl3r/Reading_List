@@ -11,3 +11,5 @@ n.d. (2003). Guidelines for the management of IT evidence : handbook. Standard
 Nelson, B., Phillips, A., & Steuart, C. (2019). Guide to computer forensics and investigations (Sixth edition.). Cengage
 
 Chutani, S., & Goyal, A. (2019). A Review of Forensic Approaches to Digital Image Steganalysis. Multimedia Tools and Application
+
+Easttom, C. (2022). In-depth guide to mobile device forensics. CRC Press. Retrieved July 12, 2023
